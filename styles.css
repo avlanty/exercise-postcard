@@ -1,8 +1,8 @@
 body {
-    background: black;
+	background: black;
 }
 
 * {
-    border: 1px dashed red;
-    min-height: 10px;
+	border: 1px dashed red;
+	min-height: 10px;
 }
