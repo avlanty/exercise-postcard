@@ -45,3 +45,12 @@ input {
 	border: none;
 	border-bottom: grey;
 }
+
+.postcard-footer {
+	text-align: center;
+}
+
+button {
+	background-color: darkgrey;
+	padding: 0px;
+}
